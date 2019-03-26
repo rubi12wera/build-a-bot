@@ -6,6 +6,10 @@ Repo for working with the Pluralsight Vue Fundamentals course available here: ht
 ```
 npm install
 ```
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 ## Back-End Server build-a-bot-server
 git clone https://github.com/jmcooper/build-a-bot-server/network/members
 step into cloned directory and run 
@@ -16,10 +20,7 @@ start server
 ```
 npm start
 ```
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+
 
 ### Compiles and minifies for production
 ```

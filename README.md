@@ -1,12 +1,12 @@
 # build-a-bot
-Follow up turtoail from JmCooper in Pluralsight
+Follow up tutorial from JmCooper in Pluralsight
 Repo for working with the Pluralsight Vue Fundamentals course available here: https://www.pluralsight.com/courses/vuejs-fundamentals
 
 ## Project setup
 ```
 npm install
 ```
-## Back-End Server
+## Back-End Server build-a-bot-server
 git clone https://github.com/jmcooper/build-a-bot-server/network/members
 step into cloned directory and run 
 ```

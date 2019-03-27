@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import HomePage from '../home/HomePage.vue';
+import MyNotes from '../home/MyNotes.vue';
 import RobotBuilder from '../build/RobotBuilder.vue';
 import PartInfo from '../parts/PartInfo.vue';
 import BrowseParts from '../parts/BrowseParts.vue';
@@ -85,6 +86,11 @@ export default new Router({
         path:'/cart',
         name:'Cart',
         component: ShoppingCart,
+    },
+    {
+        path:'/notes',
+        name:'notes',
+        component: MyNotes,
     },
 ],
 });

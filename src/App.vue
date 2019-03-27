@@ -19,6 +19,11 @@
            BrowseParts
             </router-link>
           </li>
+          <li class="nav-item">
+            <router-link active-class="myRouterLink" class="nav-link" :to="{name:'notes'}" exact>
+           MyNotes
+            </router-link>
+          </li>
           <li class="nav-item cart">
             <router-link active-class="myRouterLink" class="nav-link" to="/cart" exact>
            Cart

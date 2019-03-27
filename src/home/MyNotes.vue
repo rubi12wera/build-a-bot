@@ -101,6 +101,23 @@
                 To check version run 'npm list vuex', same for vue versions<br/>
             </p>
         </div>
+        <!-- $ git commit -m "using directive lifecicle hooks"
+[master a1f7104] using directive lifecicle hooks
+ Committer: Adriana McQuiston <adriana.mcquiston@marketware.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 55 insertions(+), 6 deletions(-)
+ create mode 100644 src/shared/pin-directive.js
+ -->
     </div>
   
 </template>

@@ -30,7 +30,7 @@
 
 <script>
 //import availableParts from '../data/parts';
-import pinDirective from '../shared/pin-directive';
+//import pinDirective from '../shared/pin-directive';
 //const parts = availableParts.heads;
 
 function getPreviousValidIndex(index, length) {
@@ -44,7 +44,8 @@ function getNextValidIndex(index, length) {
 }
 
 export default {
-  directives:{pin: pinDirective},//only available to this component
+  //only available to this component, so we moved it to main.js so it is available to all components
+ // directives:{pin: pinDirective},
   props:{
       parts:{type:Array, required: true},
       position:{

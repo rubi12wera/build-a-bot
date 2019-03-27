@@ -12,7 +12,8 @@
             <p>
             Git add . <br/>
             Git commit -m "first commit" <br/>
-            $git push origin master
+            Git pull origin master <br/>
+            Git push origin master
             </p>
         </div>
         <div>

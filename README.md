@@ -11,7 +11,7 @@ npm install
 npm run serve
 ```
 ## Back-End Server build-a-bot-server
-git clone https://github.com/jmcooper/build-a-bot-server/network/members
+git clone https://github.com/jmcooper/build-a-bot-server
 step into cloned directory and run 
 ```
 npm install
@@ -20,7 +20,7 @@ start server
 ```
 npm start
 ```
-
+Try it out http://localhost:8081/api/parts
 
 ### Compiles and minifies for production
 ```

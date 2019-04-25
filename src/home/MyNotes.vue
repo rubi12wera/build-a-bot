@@ -17,6 +17,11 @@
             </p>
         </div>
         <div>
+            <h3>https://docs.microsoft.com/en-us/ef/core/get-started/</h3>
+            <h4>https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/</h4>
+            <p>how to create a local database</p>
+        </div>
+        <div>
                 <h1>
                 Installing node,
                 </h1>

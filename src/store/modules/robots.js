@@ -38,6 +38,7 @@ export default {
                 .catch(console.error);
         },
         addRobotToCart({commit, state}, robot){
+            //array takes all items in cart and apends our new robot to array
             const cart = [...state.cart, robot];
             //axios.post('/api/cart', cart)
             
